@@ -1,0 +1,1 @@
+../../../../../Vendors/WechatAuthSDK.h

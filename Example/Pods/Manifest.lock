@@ -1,0 +1,16 @@
+PODS:
+  - WXCustomerServiceLib (1.0.0)
+
+DEPENDENCIES:
+  - WXCustomerServiceLib (from `../`)
+
+EXTERNAL SOURCES:
+  WXCustomerServiceLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WXCustomerServiceLib: 5dd4a03833c1b46e8b07767bf29e7a1834ee373f
+
+PODFILE CHECKSUM: 93ad879b5f6b13d1c457ffbef73ff2682d13ba05
+
+COCOAPODS: 1.11.2
