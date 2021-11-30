@@ -1,5 +1,5 @@
 PODS:
-  - WXCustomerServiceLib (1.0.0)
+  - WXCustomerServiceLib (1.0.1)
 
 DEPENDENCIES:
   - WXCustomerServiceLib (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  WXCustomerServiceLib: 5dd4a03833c1b46e8b07767bf29e7a1834ee373f
+  WXCustomerServiceLib: f11b82a16a7e49f15b85a8e9a579aea6ef3c5d15
 
 PODFILE CHECKSUM: 93ad879b5f6b13d1c457ffbef73ff2682d13ba05
 
